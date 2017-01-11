@@ -1,8 +1,8 @@
-#简述
+##简述
 从一个到无限个
-lantern
+
 ##say you and me
-give me five
+
 <table>
     <tr>
         <td>give me five</td>
@@ -14,6 +14,7 @@ AT&amp;T
         <td>4 &lt; 5</td>
     </tr>
 </table>
+
 #this is h1
 ##this is h2
 ###this is h3
@@ -48,7 +49,7 @@ AT&amp;T
 ---------------------------------------
 This is [an example](http://example.com/) inline link.
 
-*用一个 *或者 _的是斜体*
+*用一个* *** **或者 _的是斜体*
 
 **用两个 ** 或者 __ 的是粗体**
 
